@@ -1,0 +1,16 @@
+#root {
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #ebb5ea;
+  color: white;
+}
+
+p {
+  font-size: 13px;
+}
+
+.header-wrap{
+  @apply bg-pink-700  text-left text-base
+}
